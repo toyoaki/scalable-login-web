@@ -1,0 +1,23 @@
+/* General */
+
+.center-block {
+	float: none;
+}
+
+.main-msg {
+	margin-bottom: 40px;
+}
+
+/* Profile */
+
+#profileBox {
+	padding: 20px;
+}
+
+.mini-title {
+	font-weight: bold;
+}
+
+.favorite-song {
+	margin-top: 25px;
+}
